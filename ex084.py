@@ -12,4 +12,8 @@ while True:
     resp = str(input('Quer continuar? '))
     if resp in 'nN':
         break
+
+
+
+
 print(f'A quantidade de pessoas cadastradas foi {len(principal)}')
