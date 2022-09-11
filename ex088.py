@@ -4,6 +4,7 @@ from random import randint
 from time import sleep
 lista = list()
 jogos = list()
+
 print('\033[36m*=' * 17)
 print('      JOGO DA MEGA SENA')
 print('*=' * 17)
